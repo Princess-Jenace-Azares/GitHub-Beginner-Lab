@@ -1,0 +1,11 @@
+C:\Users\princ\OneDrive\Documents\GitHub-Beginner-Lab(1)\StudentProfile\StudentProfile\bin\Debug\StudentProfile.exe.config
+C:\Users\princ\OneDrive\Documents\GitHub-Beginner-Lab(1)\StudentProfile\StudentProfile\bin\Debug\StudentProfile.exe
+C:\Users\princ\OneDrive\Documents\GitHub-Beginner-Lab(1)\StudentProfile\StudentProfile\bin\Debug\StudentProfile.pdb
+C:\Users\princ\OneDrive\Documents\GitHub-Beginner-Lab(1)\StudentProfile\StudentProfile\obj\Debug\StudentProfile.csproj.AssemblyReference.cache
+C:\Users\princ\OneDrive\Documents\GitHub-Beginner-Lab(1)\StudentProfile\StudentProfile\obj\Debug\StudentProfile.StudentProfile.resources
+C:\Users\princ\OneDrive\Documents\GitHub-Beginner-Lab(1)\StudentProfile\StudentProfile\obj\Debug\StudentProfile.Properties.Resources.resources
+C:\Users\princ\OneDrive\Documents\GitHub-Beginner-Lab(1)\StudentProfile\StudentProfile\obj\Debug\StudentProfile.csproj.GenerateResource.cache
+C:\Users\princ\OneDrive\Documents\GitHub-Beginner-Lab(1)\StudentProfile\StudentProfile\obj\Debug\StudentProfile.csproj.CoreCompileInputs.cache
+C:\Users\princ\OneDrive\Documents\GitHub-Beginner-Lab(1)\StudentProfile\StudentProfile\obj\Debug\StudentProfile.exe
+C:\Users\princ\OneDrive\Documents\GitHub-Beginner-Lab(1)\StudentProfile\StudentProfile\obj\Debug\StudentProfile.pdb
+C:\Users\princ\OneDrive\Documents\GitHub-Beginner-Lab(1)\StudentProfile\StudentProfile\obj\Debug\StudentProfile.exe.config
